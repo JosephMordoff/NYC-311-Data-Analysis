@@ -115,23 +115,4 @@ nyc-311-noise-analysis/
 
 ---
 
-## Future Improvements
-
-* Expand analysis to all NYC boroughs
-* Add predictive modeling for complaint trends
-* Build an interactive dashboard (Streamlit or Tableau)
-
----
-
-## Authors
-
-* Joseph Mordoff
-* Marzouq Bhuiyan
-* Komal Dhawan
-* Dora Chan
-
----
-
-## Notes
-
 This project was developed as part of a data analytics course and demonstrates real-world data collection, cleaning, and visualization using public datasets.
